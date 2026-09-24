@@ -1,0 +1,16 @@
+perfil,nacimientos_2015_2023,%_2015_2023,nacimientos_2025,%_2025
+idh_2019 ≤ 0.58 Y 31.63 < pobreza_pct Y num_embar_madre_cat = 1 Y sexo_nacido ≠ MASCULINO,141206.0,4.98,12852.0,5.32
+0.58 < idh_2019 Y altitud_msnm ≥ 2646 Y 14.86 < pobreza_pct,51924.0,4.67,4345.0,4.26
+idh_2019 ≤ 0.58 Y edad_madre ≤ 18 Y num_embar_madre_cat = 1 Y sexo_nacido = MASCULINO,95267.0,4.03,8401.0,4.77
+idh_2019 ≤ 0.58 Y pobreza_pct ≤ 31.63 Y num_embar_madre_cat = 1 Y sexo_nacido ≠ MASCULINO,114428.0,3.75,10747.0,4.21
+idh_2019 ≤ 0.58 Y 31.58 < pobreza_pct Y num_embar_madre_cat ≠ 1 Y sexo_nacido ≠ MASCULINO,294647.0,3.57,30708.0,3.67
+0.58 < idh_2019 Y altitud_msnm ≥ 2646 Y pobreza_pct ≤ 14.86 Y macroregion ≠ MACROREGION SUR,55932.0,3.29,4839.0,2.98
+idh_2019 ≤ 0.58 Y edad_madre ≥ 19 Y num_embar_madre_cat = 1 Y sexo_nacido = MASCULINO,171706.0,2.98,16587.0,3.02
+idh_2019 ≤ 0.58 Y edad_madre ≥ 37 Y num_embar_madre_cat ≠ 1 Y sexo_nacido = MASCULINO,84788.0,2.88,9778.0,2.95
+idh_2019 ≤ 0.58 Y pobreza_pct ≤ 31.58 Y num_embar_madre_cat ≠ 1 Y sexo_nacido ≠ MASCULINO,282612.0,2.69,26866.0,2.74
+0.58 < idh_2019 Y altitud_msnm ≤ 2646 Y num_embar_madre_cat = 1 Y financiador_parto = SIS,338233.0,2.4,26230.0,2.54
+0.58 < idh_2019 Y altitud_msnm ≥ 2646 Y pobreza_pct ≤ 14.86 Y macroregion = MACROREGION SUR,69493.0,2.24,5205.0,2.19
+idh_2019 ≤ 0.58 Y edad_madre ≤ 36 Y num_embar_madre_cat ≠ 1 Y sexo_nacido = MASCULINO,512306.0,2.03,49832.0,2.03
+0.58 < idh_2019 Y altitud_msnm ≤ 2646 Y num_embar_madre_cat ≠ 1 Y sexo_nacido ≠ MASCULINO,671151.0,1.67,56105.0,1.77
+0.58 < idh_2019 Y altitud_msnm ≤ 2646 Y num_embar_madre_cat = 1 Y financiador_parto ≠ SIS,239861.0,1.59,23591.0,1.44
+0.58 < idh_2019 Y altitud_msnm ≤ 2646 Y num_embar_madre_cat ≠ 1 Y sexo_nacido = MASCULINO,695017.0,1.17,57871.0,1.06

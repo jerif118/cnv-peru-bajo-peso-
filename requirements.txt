@@ -1,0 +1,6 @@
+databricks-sql-connector[pyarrow]
+pandas
+matplotlib
+scikit-learn>=1.4
+joblib
+python-dotenv

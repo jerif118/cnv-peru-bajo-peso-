@@ -1,0 +1,18 @@
+variable,%_registros
+Edad de la madre (fuera de 10-60 o vacía),0.0
+Sexo del recién nacido,0.0
+Talla (fuera de 30-60 cm o vacía),0.12
+Nivel de instrucción,0.05
+Estado civil,4.18
+Embarazos previos,1.03
+Hijos vivos,0.77
+Abortos o nonatos,8.54
+País de la madre,0.0
+Ubigeo de residencia,0.18
+"Contexto del distrito (altitud, IDH, pobreza)",0.25
+Establecimiento (IPRESS),0.0
+Lugar del parto,0.0
+Quién atiende el parto,0.09
+Financiador del parto,0.79
+Hijos fallecidos = -1 (0 o ignorado),96.99
+Estado civil = SOLTERO (posible registro por defecto),84.66

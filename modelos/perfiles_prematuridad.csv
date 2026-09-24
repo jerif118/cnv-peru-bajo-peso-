@@ -1,0 +1,17 @@
+perfil,nacimientos_2015_2023,%_2015_2023,nacimientos_2025,%_2025
+edad_madre ≥ 38 Y altitud_msnm ≤ 189 Y financiador_parto = ESSALUD,45482.0,12.05,4272.0,14.12
+edad_madre 35-37 Y altitud_msnm ≤ 189 Y financiador_parto = ESSALUD,46213.0,9.89,4225.0,12.09
+edad_madre ≤ 34 Y altitud_msnm ≤ 184 Y 0.26 < vulnerabilidad_alimentaria Y financiador_parto = ESSALUD,42199.0,9.59,3687.0,11.12
+edad_madre ≥ 38 Y altitud_msnm ≥ 190 Y financiador_parto = ESSALUD,50716.0,9.47,5258.0,11.05
+edad_madre ≥ 35 Y altitud_msnm ≤ 170 Y financiador_parto ≠ ESSALUD Y antecedentes_abortos_cat ≠ NINGUNO,102354.0,8.75,10932.0,9.12
+edad_madre ≤ 16 Y altitud_msnm ≥ 184 Y vulnerabilidad_alimentaria ≤ 0.51,42080.0,7.69,3457.0,11.37
+edad_madre 35-37 Y altitud_msnm ≥ 190 Y financiador_parto = ESSALUD,51917.0,7.51,5119.0,9.03
+edad_madre ≤ 16 Y altitud_msnm ≥ 184 Y 0.51 < vulnerabilidad_alimentaria,41247.0,7.42,3729.0,8.42
+edad_madre 17-34 Y altitud_msnm ≥ 184 Y hijos_fallecidos_madre_cat ≠ 0 O IGNORADO,51922.0,7.42,4238.0,8.24
+edad_madre ≥ 39 Y altitud_msnm ≥ 171 Y financiador_parto ≠ ESSALUD,123014.0,7.16,13872.0,8.23
+edad_madre ≥ 35 Y altitud_msnm ≤ 170 Y financiador_parto ≠ ESSALUD Y antecedentes_abortos_cat = NINGUNO,119144.0,7.14,13716.0,8.09
+edad_madre ≤ 34 Y altitud_msnm ≤ 184 Y vulnerabilidad_alimentaria ≤ 0.26 Y financiador_parto = ESSALUD,219857.0,7.12,16396.0,8.48
+edad_madre ≤ 34 Y altitud_msnm ≤ 184 Y financiador_parto ≠ ESSALUD Y financiador_parto ≠ PARTICULAR,1017562.0,6.04,91536.0,7.37
+edad_madre 35-38 Y altitud_msnm ≥ 171 Y financiador_parto ≠ ESSALUD,204119.0,5.86,23075.0,6.6
+edad_madre 17-34 Y altitud_msnm ≥ 184 Y hijos_fallecidos_madre_cat = 0 O IGNORADO,1809917.0,4.62,156889.0,5.47
+edad_madre ≤ 34 Y altitud_msnm ≤ 184 Y financiador_parto ≠ ESSALUD Y financiador_parto = PARTICULAR,86230.0,4.09,8904.0,2.54

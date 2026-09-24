@@ -1,0 +1,14 @@
+perfil,nacimientos_2015_2023,%_2015_2023,nacimientos_2025,%_2025
+edad_madre ≤ 15,62344.0,9.77,5874.0,11.58
+edad_madre ≥ 38 Y altitud_msnm ≥ 2543 Y sexo_nacido = FEMENINO,41781.0,9.2,4551.0,9.18
+edad_madre 16-18 Y 0.25 < vulnerabilidad_alimentaria Y altitud_msnm ≤ 191,51427.0,8.9,5574.0,10.41
+edad_madre ≥ 38 Y altitud_msnm ≥ 2543 Y sexo_nacido ≠ FEMENINO,43369.0,8.28,4711.0,8.92
+edad_madre ≥ 42 Y altitud_msnm ≤ 2542,58933.0,7.97,6617.0,7.84
+edad_madre 16-18 Y 0.25 < vulnerabilidad_alimentaria Y altitud_msnm ≥ 191,159918.0,7.42,12280.0,8.84
+edad_madre 19-37 Y idh_2019 ≤ 0.58 Y hijos_vivos_madre_cat = 1,456346.0,6.45,45515.0,6.82
+edad_madre 16-18 Y vulnerabilidad_alimentaria ≤ 0.25 Y altitud_msnm ≤ 82,44957.0,6.39,3344.0,8.1
+edad_madre 19-37 Y 0.58 < idh_2019 Y altitud_msnm ≥ 2646,150912.0,6.23,12279.0,6.6
+edad_madre 38-41 Y altitud_msnm ≤ 2542,225082.0,6.18,24297.0,6.24
+edad_madre 16-18 Y vulnerabilidad_alimentaria ≤ 0.25 Y altitud_msnm ≥ 83,67963.0,5.66,4232.0,7.21
+edad_madre 19-37 Y idh_2019 ≤ 0.58 Y hijos_vivos_madre_cat ≠ 1,984065.0,5.09,96349.0,5.47
+edad_madre 19-37 Y 0.58 < idh_2019 Y altitud_msnm ≤ 2646,1706876.0,4.31,143682.0,4.63

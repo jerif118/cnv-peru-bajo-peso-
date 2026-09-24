@@ -1,0 +1,15 @@
+# Configuración local
+.env
+.env.*
+!.env.example
+
+# Datos originales grandes
+datos_nacimientos/data/
+
+# Archivos temporales de Python y Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
